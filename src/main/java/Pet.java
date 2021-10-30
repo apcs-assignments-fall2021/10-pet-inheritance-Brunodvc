@@ -1,7 +1,7 @@
 public class Pet {
     // Instance variables: every Pet has a first name and last name
-    private String name;
-    private int age;
+    String name;
+    int age;
 
     // Constructor: creates a Pet with the given first name and last name
     public Pet(String name, int age) {
